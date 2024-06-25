@@ -1,0 +1,8 @@
+# Entorno virtual
+env/
+# Archivos del sistema
+__pycache__/
+*.pyc
+# Archivos de configuración
+.env
+# Ignorar todos los archivos dentro de la carpeta mi_carpeta
